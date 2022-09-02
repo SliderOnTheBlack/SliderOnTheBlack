@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there
+I am a young coder/graphic designer thats looking to grow on github!
+!
+
+![68747470733a2f2f736869656c64732e696f2f62616467652f2d77617374656f662e6d6f6e65792d3633363646313f6c6f676f3d646174613a696d6167652f706e673b6261736536342c6956424f5277304b47676f414141414e5355684555674141414c3041414142664341594141414339573861354141](https://user-images.githubusercontent.com/105185690/188063958-a362271f-29bf-4214-8b41-46a82cc845d3.svg)
+
 
 <!--
 **SliderOnTheBlack/SliderOnTheBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
