@@ -1,5 +1,5 @@
 ### Hello there
-I am a young coder/graphic designer thats looking to grow on github!
+I am a young (ish) coder/graphic designer thats looking to grow on github!
 
 
 
